@@ -1,3 +1,4 @@
 Demo for Git --> Done
 File synced with remote Github  repo --> Done
 Track File changes --> Done
+New changes for new commit
